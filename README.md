@@ -1,4 +1,4 @@
-# Hi, I'm Simranjeet Kaur 👋
+# Hi, I'm Simranjeet Kaur 
 
 ## QA Engineer | Manual Tester
 
