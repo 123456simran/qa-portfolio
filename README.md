@@ -6,12 +6,18 @@ Welcome to my QA Portfolio. This repository showcases my skills and experience i
 
 ## About Me
 
-- 👩‍💻 QA Engineer with experience in Manual Testing
-- 🔍 Skilled in creating test cases, test scenarios, and bug reports
-- 🐞 Experienced in identifying, documenting, and tracking defects
-- 🔗 Basic knowledge of API Testing using Postman
-- 📱 Experience testing Web and Mobile applications
+Hi, I'm **Simranjeet Kaur**, a QA Engineer with experience in Manual Testing of Web and Mobile applications.
 
+I have hands-on experience in:
+
+- Designing and executing test cases and test scenarios
+- Identifying, documenting, and tracking software defects
+- Performing Functional, Regression, Smoke, and Sanity Testing
+- Basic API Testing using Postman
+- Testing Web and Mobile applications
+- Using Jira for bug tracking and defect management
+
+I am passionate about software quality and enjoy identifying issues, validating requirements, and contributing to the delivery of reliable applications. I am continuously expanding my knowledge and enhancing my skills in software testing.
 ## Skills
 
 - Manual Testing
