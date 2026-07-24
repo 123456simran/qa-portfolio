@@ -1,0 +1,41 @@
+Project -> VB Stream (E- Classroom)
+
+## Project Overview
+
+VB Steam E-Classroom is an education management platform designed for schools 
+and higher education institutions. The platform enables administrators to manage schools, 
+classes, teachers, subjects, and class schedules while providing students with access to online learning. 
+The system also supports multiple user panels, allowing administrators, schools, teachers, and students to access 
+features based on their roles and permissions.
+
+## Key Features
+
+- Multi-School Management
+- Multiple User Panels (Admin, School, Teacher, and Student)
+- School Management
+- Class Management
+- Teacher Management
+- Student Management
+- Subject Management
+- Teacher & Subject Assignment
+- Class Scheduling & Timetable
+- Online Classes
+- Role-Based Access Control
+- User Authentication
+- Notifications
+- Admin Dashboard
+
+## My QA Responsibilities
+
+- Reviewed business requirements and functional specifications.
+- Created and executed test cases and test scenarios.
+- Performed Functional, Regression, Smoke, and Sanity Testing.
+- Tested Admin, School, Teacher, and Student panels.
+- Verified role-based access and permissions for different user panels.
+- Tested school, class, teacher, subject, and timetable management modules.
+- Verified teacher assignment and class scheduling workflows.
+- Tested online class functionality and feature accessibility based on user roles.
+- Performed compatibility testing across multiple devices.
+- Identified, documented, and tracked defects.
+- Performed re-testing after bug fixes.
+- Collaborated with developers to resolve reported issues.
