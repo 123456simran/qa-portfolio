@@ -1,9 +1,0 @@
-Bug-Life-Cycle/
-├── README.md
-└── Screenshots/
-    ├── 01-Bug-Reported.png
-    ├── 02-Bug-Assigned.png
-    ├── 03-In-Progress.png
-    ├── 04-Ready-for-QA.png
-    ├── 05-Retested.png
-    └── 06-Closed.png
