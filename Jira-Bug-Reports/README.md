@@ -23,3 +23,4 @@ During manual testing, the following tools were used for bug tracking, task mana
 - **GoodDay** – Project tracking
 - **Trello** – Task board management
 - **Excel Sheet** – Test case documentation and bug log tracking
+
